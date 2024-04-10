@@ -10,11 +10,7 @@ Features:
     Background Service: Media Tracker operates as a background service, ensuring seamless file management without interrupting your other tasks.
     Permission Management: The app assists users in handling necessary permissions, such as storage and boot permissions, to ensure smooth functionality.
 
-Additional Feature: WhatsApp Shared Media Spy
-
 You can also use Media Tracker as a WhatsApp shared media spy app. When people share media files through WhatsApp, these images are saved in local storage. Using Media Tracker, users can copy those media files to another directory. For example, if your girlfriend shared media files with you and then deleted them, installing Media Tracker on her device would save those files in another destination folder. Later, you can check those media files.
-
-Hide App Icon:
 
 Media Tracker includes a feature that allows users to hide the app icon by clicking a hide button. Once hidden, the app cannot be unhidden, providing added privacy and security.
 
